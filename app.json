@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"+",
+      "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"POPKID MD",
+      "value":"Sharp64",
       "required":false
 
     } ,
@@ -69,7 +69,7 @@
       "required":true
       
     },
-    "Sharp64":
+    "OWNER-NAME":
     {
     
     "desc": "Your Name",
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+2349157539513"
+    "value": "2349157539513"
   },
     "WARN_COUNT":
   {
